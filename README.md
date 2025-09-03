@@ -1,6 +1,6 @@
 # My Experience Testing Gandalf: Agent Breaker
 
-I had the chance to join the closed beta of **[Gandalf: Agent Breaker](https://gandalf.lakera.ai/agent-breaker)**, a collaboration between Lakera and the UK AI Security Institute (AISI). This wasn’t a typical bug bounty—it was a red-team style challenge featuring **10 real-world LLM applications** with **five difficulty levels each** (50 challenges total, 5000 points possible), designed to simulate how models behave when deployed in practice.
+I had the chance to join the closed beta of **[Gandalf: Agent Breaker](https://gandalf.lakera.ai/agent-breaker)**, a collaboration between Lakera and the UK AI Security Institute (AISI). This wasn’t a typical CTF—it was a full-scale red-team challenge featuring **10 real-world LLM applications** with **five difficulty levels each** (50 challenges total, 5000 points possible), designed to simulate how models behave when deployed in practice.
 
 ### What Stood Out
 
