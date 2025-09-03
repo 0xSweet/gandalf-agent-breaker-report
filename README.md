@@ -30,7 +30,12 @@ This reminded me of my very first AI lesson years ago, when I was asked to write
 - **Precision is fragile**: structured inputs are powerful but break easily
     
 - **Systematic > random**: methodical boundary probing mirrors real security research
-    
+
+<p align="center">
+  <img src="screenshot.png" alt="Level cleared with 100/100 score" width="400"/>
+  <br>
+  <em>Example of level completion (100/100 score)</em>
+</p>
 
 ### Closing Thoughts
 
