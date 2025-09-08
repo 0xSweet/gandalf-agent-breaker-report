@@ -52,3 +52,9 @@ All content is shared for educational and research purposes only.
 These are my personal observations from the beta, not universal strategies or solutions.  
 No proprietary systems, exploits, or confidential data are included.
 
+
+---
+For a broader curated list of papers, defenses, and alignment resources,  
+see my companion repo: [Awesome LLM Security & Alignment](https://github.com/0xSweet/awesome-llm-security-alignment)
+
+
