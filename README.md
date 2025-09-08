@@ -2,6 +2,7 @@
 
 I had the chance to join the closed beta of **[Gandalf: Agent Breaker](https://gandalf.lakera.ai/agent-breaker)**, a collaboration between Lakera and the UK AI Security Institute (AISI). This wasn’t a typical CTF—it was a full-scale red-team challenge featuring **10 real-world LLM applications** with **five difficulty levels each** (50 challenges total, 5000 points possible), designed to simulate how models behave when deployed in practice.
 
+
 ### What Stood Out
 
 - **Unpredictable models**: The same prompt sometimes produced different results. Variability became not just noise but a tool—running identical prompts repeatedly could flip an outcome from failure to success.
@@ -18,6 +19,7 @@ I had the chance to join the closed beta of **[Gandalf: Agent Breaker](https://g
 My approach evolved into something resembling reconnaissance: probing boundaries, testing small variations, and mapping weak points. Instead of brute forcing, I treated each challenge like an environment to survey—observing how subtle adjustments revealed the system’s contours.
 
 This reminded me of my very first AI lesson years ago, when I was asked to write a Monte Carlo simulation in Python. Back then, it felt abstract. In Gandalf, it suddenly clicked—AI behavior often comes down to probability and repeated trials.
+
 
 ### Key Takeaways
 
@@ -37,11 +39,16 @@ This reminded me of my very first AI lesson years ago, when I was asked to write
   <em>Example of level completion (100/100 score)</em>
 </p>
 
+
 ### Closing Thoughts
 
 This beta was more than a game—it felt like real security research. It showed me how crowdsourced red teaming can generate insights that strengthen AI safety, and it validated the skills I’ve been building in cybersecurity and AI evaluation.
 
 👉 Try Gandalf Agent Breaker yourself: [gandalf.lakera.ai/agent-breaker](https://gandalf.lakera.ai/agent-breaker)
 
-_Note: These are my personal observations from the beta, not universal strategies or solutions._
+
+### Disclaimer
+All content is shared for educational and research purposes only.  
+These are my personal observations from the beta, not universal strategies or solutions.  
+No proprietary systems, exploits, or confidential data are included.
 
