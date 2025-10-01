@@ -1,6 +1,6 @@
 # My Experience Testing Gandalf: Agent Breaker
 
-I had the chance to join the closed beta of **[Gandalf: Agent Breaker](https://gandalf.lakera.ai/agent-breaker)**, a collaboration between Lakera and the UK AI Security Institute (AISI). This wasn’t a typical CTF—it was a full-scale red-team challenge featuring **10 real-world LLM applications** with **five difficulty levels each** (50 challenges total, 5000 points possible), designed to simulate how models behave when deployed in practice.
+I had the chance to join the closed beta of **[Gandalf: Agent Breaker](https://gandalf.lakera.ai/agent-breaker)**. This was a full-scale red-team challenge featuring **10 real-world LLM applications** with **five difficulty levels each** (50 challenges total, 5000 points possible), designed to simulate how models behave when deployed in practice.
 
 
 ### What Stood Out
@@ -16,7 +16,7 @@ I had the chance to join the closed beta of **[Gandalf: Agent Breaker](https://g
 
 ### My Strategy
 
-My approach evolved into something resembling reconnaissance: probing boundaries, testing small variations, and mapping weak points. Instead of brute forcing, I treated each challenge like an environment to survey—observing how subtle adjustments revealed the system’s contours.
+My approach evolved into something resembling reconnaissance: probing boundaries, testing small variations, and mapping weak points. I treated each challenge like an environment to survey—observing how subtle adjustments revealed the system’s contours.
 
 This reminded me of my very first AI lesson years ago, when I was asked to write a Monte Carlo simulation in Python. Back then, it felt abstract. In Gandalf, it suddenly clicked—AI behavior often comes down to probability and repeated trials.
 
@@ -53,8 +53,6 @@ These are my personal observations from the beta, not universal strategies or so
 No proprietary systems, exploits, or confidential data are included.
 
 ---
-For a broader curated list of papers, defenses, and alignment resources,  
-see my companion repo: [Awesome LLM Security & Alignment](https://github.com/0xSweet/awesome-llm-security-alignment)
 
 
 <p align="center">
